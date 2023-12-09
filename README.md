@@ -12,7 +12,7 @@ I also work part-time in the Digital Chemistry group of Merck KGaA, Darmstadt, G
 - ⚡ Fun fact: It's my goal to ski on every continent.\
   ✅ North America\
   ✅ Europe\
-  ❌ South America\
+  ❌ South America (Portillo 2024)\
   ❌ Asia\
   ❌ Australia\
   ❌ Antarctica\
