@@ -10,9 +10,12 @@ I also work part-time in the Digital Chemistry group of Merck KGaA, Darmstadt, G
 - 👯 I’m looking to collaborate on chain-of-thought LLM applications in biology and healthcare.
 - 💬 Ask me about all things biology.
 - ⚡ Fun fact: It's my goal to ski on every continent.\
-  ✅ North America    (Kirkwood, Heavenly, Boreal, Northstar, Palisades, Copper Mountain, Breckenridge)\
-  ✅ Europe    (Verbier4Vallees)\
-  ❌ South America    (Portillo 2024)\
+  ✅ North America\
+  (Kirkwood, Heavenly, Boreal, Northstar, Palisades, Copper Mountain, Breckenridge)\
+  ✅ Europe    \
+  Verbier4Vallees)\
+  ❌ South America\
+  (Portillo 2024)\
   ❌ Asia\
   ❌ Australia\
   ❌ Antarctica
