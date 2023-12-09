@@ -15,5 +15,5 @@ I also work part-time in the Digital Chemistry group of Merck KGaA, Darmstadt, G
   ❌ South America (Portillo 2024)\
   ❌ Asia\
   ❌ Australia\
-  ❌ Antarctica\
+  ❌ Antarctica
 
