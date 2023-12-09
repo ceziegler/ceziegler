@@ -6,7 +6,7 @@ I also work part-time in the Digital Chemistry group of Merck KGaA, Darmstadt, G
 ------
 
 - 🔭 I’m currently working on augmenting large models to predict protein dynamics.
-- 🌱 I’m currently exploring GNNs for signaling network analysis.
+- 🌱 I’m currently exploring GNNs and knowledge graphs for signaling network analysis.
 - 👯 I’m looking to collaborate on chain-of-thought LLM applications in biology and healthcare.
 - 💬 Ask me about all things biology.
 - ⚡ Fun fact: It's my goal to ski on every continent.\
