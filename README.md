@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I am a doctoral candidate in the Evolutionary Information Lab (Morcos Lab) at UT Dallas (expected graduation May 2025). 
+I am a doctoral candidate in the Evolutionary Information Lab (Morcos Lab) at UT Dallas. 
 I also work part-time in the Digital Chemistry group of Merck KGaA, Darmstadt, Germany developing software and ML/AI tools for various divisions.
 
 ------
