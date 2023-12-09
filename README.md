@@ -9,11 +9,11 @@ I also work part-time in the Digital Chemistry group of Merck KGaA, Darmstadt, G
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on chain-of-thought LLM applications in biology and healthcare.
 - 💬 Ask me about 
-- ⚡ Fun fact: It's my goal to ski on every continent.
-  :white_check_mark: North America
-  :white_check_mark: Europe
-  :x: South America
-  :x: Asia
-  :x: Australia
-  :x: Antarctica
+- ⚡ Fun fact: It's my goal to ski on every continent.\
+  ✅ North America\
+  ✅ Europe\
+  ❌ South America\
+  ❌ Asia\
+  ❌ Australia\
+  ❌ Antarctica\
 
