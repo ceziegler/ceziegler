@@ -8,5 +8,5 @@ I am a doctoral candidate in the Evolutionary Information Lab (Morcos Lab) at UT
 - 💬 Ask me about all things biology.
 - ⚡ Fun fact: It's my goal to ski on every continent.\
   ✅ North America\
-  ✅ Europe    \
+  ✅ Europe    
  
