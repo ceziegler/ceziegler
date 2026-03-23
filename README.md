@@ -9,6 +9,5 @@ I consider myself a CompBio Cowgirl. I work on whatever needs to be done: anythi
 - 🌱 I’m currently exploring different ML/AI methods for lipid nanoparticle (LNP) design.
 - 💬 Ask me about all things biology.
 - ⚡ Fun fact: It's my goal to ski on every continent.\
-  ✅ North America\
-  ✅ Europe    
+   
  
